@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=d5b7f7&height=300&section=header&text=welcome&fontSize=90&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=welcome&fontSize=50&fontColor=d5b7f7" />
 </div>
 
 
@@ -41,14 +41,12 @@
 
 <h3>⭐ stats ⭐</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Umin73&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,b5d5ff,dbc4f0,d5b7f7" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Umin73&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,1E1E1E,dbc4f0,d5b7f7&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umin73&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=DEG,b5d5ff,dbc4f0,d5b7f7" />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umin73&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=DEG,1E1E1E,dbc4f0,d5b7f7&hide_border=true" />
   </a>
-</div>
-
-
 
 </div>
