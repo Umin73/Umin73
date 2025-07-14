@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DEG,b5d5ff,dbc4f0,d5b7f7&height=200&section=header&text=Yumin's%20GitHub&fontSize=40&fontAlign=70&fontColor=ffffff&descAlign=70&descSize=20" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=d5b7f7&height=300&section=header&text=welcome&fontSize=90&fontColor=ffffff" />
+</div>
+
+
+
 
 <div align="center">
   <h3>⭐ tech ⭐</h3>
@@ -37,20 +40,15 @@
 <br><Br>
 
 <h3>⭐ stats ⭐</h3>
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Umin73&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,b5d5ff,dbc4f0,d5b7f7" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umin73&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=DEG,b5d5ff,dbc4f0,d5b7f7" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Umin73&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,b5d5ff,dbc4f0,d5b7f7" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umin73&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=DEG,b5d5ff,dbc4f0,d5b7f7" />
+  </a>
+</div>
+
 
 
 </div>
