@@ -41,21 +41,18 @@
 
 <h3>⭐ stats ⭐</h3>
 <div align="center">
-<table align="center">
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Umin73&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,1E1E1E,dbc4f0,d5b7f7&hide_border=true" />
-      </a>
-    </td>
-    <td width="15px"></td> <!-- 간격용 빈 셀 -->
-    <td valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umin73&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=DEG,1E1E1E,dbc4f0,d5b7f7&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200px" style="margin-right: 10px;" 
+         src="https://github-readme-stats.vercel.app/api?username=Umin73&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,1E1E1E,dbc4f0,d5b7f7&hide_border=true" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200px" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umin73&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=DEG,1E1E1E,dbc4f0,d5b7f7&hide_border=true" />
+  </a>
+</div>
+
 
 
 </div>
